@@ -1,0 +1,25 @@
+body {
+    border: 1px black solid;
+    width: 50%;
+    text-align: center;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 15px;
+}
+
+img {
+    border: 3px grey solid;
+    border-radius: 100%;
+}
+
+p {
+    font-weight: bolder;
+    font-style: italic;
+    font-family: cursive;
+    line-height: 24px;
+    font-size: larger;
+}
+
+.container {
+    background-image: url('./IMG-20220713-WA0004.jpg');
+}
